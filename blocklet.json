@@ -1,0 +1,19 @@
+{
+  "name": "BTC 区块阅读器",
+  "title": "BTC 区块阅读器",
+  "description": "一个非常简单的 BTC 区块阅读器",
+  "version": "1.0.0",
+  "group": "static",
+  "color": "primary",
+  "logo": "logo.jpg",
+  "main": "/",
+  "provider": "community",
+  "support": "i@haozi.moe",
+  "community": "https://community.arcblockio.cn",
+  "config_url": "",
+  "public_url": "./build",
+  "admin_url": "",
+  "install-scripts": {},
+  "hooks": {},
+  "hookFiles": []
+}

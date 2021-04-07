@@ -15,5 +15,7 @@
   "admin_url": "",
   "install-scripts": {},
   "hooks": {},
-  "hookFiles": []
+  "hookFiles": [],
+  "did": "zNKacyULGQsMCN9M6fZeWF92xYDNNacX6iTB",
+  "repository": "https://github.com/haozi23333/abtnode-btc-explorer"
 }

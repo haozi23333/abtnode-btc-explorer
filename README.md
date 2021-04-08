@@ -3,7 +3,7 @@
 
 
 ## Install on my ABT Node
-[![Install on my ABT Node](https://raw.githubusercontent.com/blocklet/development-guide/main/assets/install_on_abtnode.svg)](https://install.arcblock.io/?action=blocklet-install&meta_url=https://raw.githubusercontent.com/haozi23333/abtnode-btc-explorer/master/blocklet.json)
+[![Install on my ABT Node](https://raw.githubusercontent.com/blocklet/development-guide/main/assets/install_on_abtnode.svg)](https://install.arcblock.io/?action=blocklet-install&meta_url=https://github.com/haozi23333/abtnode-btc-explorer/releases/download/1.0.0/blocklet.json)
 
 
 

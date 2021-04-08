@@ -1,13 +1,17 @@
 name: BTC 区块阅读器
 description: 一个非常简单的 BTC 区块阅读器
+version: 1.0.0
+title: BTC 区块阅读器
 group: static
 main: /build
 author:
   name: haozi
+  email: i@haozi.moe
 specVersion: 1.0.0
 files:
   - blocklet.md
-  - screenshots
+  - build
+  - README.md
 interfaces:
   - type: web
     name: publicUrl
@@ -18,8 +22,7 @@ interfaces:
 did: z8iZqaYkehJsNPwskKtkZ9TFxbjNETYpignxt
 version: 1.0.0
 community: ''
-documentation: 'https://github.com/haozi23333/abtnode-btc-explorer'
-homepage: ''
+documentation: ''
 license: ''
 charging:
   price: 0
@@ -34,4 +37,6 @@ requirements:
 environments: []
 screenshots: []
 children: []
-repository: https://github.com/haozi23333/abtnode-btc-explorer
+repository: 
+  type: git
+  url: 'https://github.com/haozi23333/abtnode-btc-explorer'
